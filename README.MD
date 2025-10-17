@@ -310,9 +310,8 @@ Repository: https://github.com/Sugusdaddy
 ## Contact
 
 For questions, suggestions, or collaboration opportunities:
-- Email: your.email@example.com
-- LinkedIn: [Your Profile]
-- GitHub: [Your Profile]
+- Email: vchapixbusiness@gmail.com
+- LinkedIn: https://www.linkedin.com/in/david-humada-iglesias-18932a291/
 
 ## Acknowledgments
 
